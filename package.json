@@ -12,7 +12,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://victorwlin.github.io/seasons",
+  "homepage": "https://victorwlin.github.io/seasons-hooks",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
