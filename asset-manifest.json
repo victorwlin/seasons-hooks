@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seasons-hooks/static/css/main.7839f605.chunk.css",
+    "main.js": "/seasons-hooks/static/js/main.cd6dbb34.chunk.js",
+    "main.js.map": "/seasons-hooks/static/js/main.cd6dbb34.chunk.js.map",
+    "runtime-main.js": "/seasons-hooks/static/js/runtime-main.523612cb.js",
+    "runtime-main.js.map": "/seasons-hooks/static/js/runtime-main.523612cb.js.map",
+    "static/js/2.b308d9f0.chunk.js": "/seasons-hooks/static/js/2.b308d9f0.chunk.js",
+    "static/js/2.b308d9f0.chunk.js.map": "/seasons-hooks/static/js/2.b308d9f0.chunk.js.map",
+    "index.html": "/seasons-hooks/index.html",
+    "precache-manifest.dae887bcaf2c2a13941ad2026ee2fcd6.js": "/seasons-hooks/precache-manifest.dae887bcaf2c2a13941ad2026ee2fcd6.js",
+    "service-worker.js": "/seasons-hooks/service-worker.js",
+    "static/css/main.7839f605.chunk.css.map": "/seasons-hooks/static/css/main.7839f605.chunk.css.map",
+    "static/js/2.b308d9f0.chunk.js.LICENSE.txt": "/seasons-hooks/static/js/2.b308d9f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.523612cb.js",
+    "static/js/2.b308d9f0.chunk.js",
+    "static/css/main.7839f605.chunk.css",
+    "static/js/main.cd6dbb34.chunk.js"
+  ]
+}
